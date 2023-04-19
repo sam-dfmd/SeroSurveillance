@@ -1,0 +1,23 @@
+ STATE	#SAMPLES (mi)	NO. OF POSITIVE
+Arunachal Pradesh	136	15
+Assam	8151	1730
+Chhattisgarh	3668	550
+Gujarat	5260	525
+Haryana	9040	619
+Himachal Pradesh	3420	658
+Jammu & Kashmir	2423	639
+Jharkhand	825	137
+Karnataka	2099	435
+Kerala	8295	1749
+Madhya Pradesh	4864	889
+Maharashtra	10539	1666
+Manipur	3248	1317
+Meghalaya	378	104
+Mizoram	360	44
+Odisha	6076	1280
+Punjab	3919	594
+Tamilnadu 	522	90
+Telangana	9036	451
+Uttar Pradesh	9379	1093
+Uttarakhand	4049	811
+West Bengal	810	332
